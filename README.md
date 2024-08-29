@@ -46,5 +46,27 @@ To follow along with the examples and exercises in this repository, you'll need 
 3. **Create a Project**: Set up your first project in the Google Cloud Console.
 4. **Enable BigQuery API**: Make sure the BigQuery API is enabled for your project.
 
-## Repository Structure
+## Learning Plan
 
+Over the next few days, I will be focusing on the following:
+
+1. **Understanding Data Warehousing Concepts**:
+   - In-depth study of star and snowflake schemas.
+   - Learning how to model data for reporting and analytics.
+
+2. **Hands-On Practice with BigQuery**:
+   - Creating and managing datasets and tables.
+   - Writing and optimizing SQL queries.
+   - Performing complex data analysis and reporting.
+
+3. **Exploring Advanced SQL Techniques**:
+   - Learning about window functions, CTEs, and more.
+   - Applying SQL best practices for performance.
+
+## Contributing
+
+Feel free to contribute to this repository by opening issues or submitting pull requests with improvements or additional learning resources.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
